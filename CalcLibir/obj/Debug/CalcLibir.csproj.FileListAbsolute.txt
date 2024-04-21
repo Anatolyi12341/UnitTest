@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\CalcLibir\CalcLibir\bin\Debug\CalcLibir.dll
+C:\Users\Admin\source\repos\CalcLibir\CalcLibir\bin\Debug\CalcLibir.pdb
+C:\Users\Admin\source\repos\CalcLibir\CalcLibir\obj\Debug\CalcLibir.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CalcLibir\CalcLibir\obj\Debug\CalcLibir.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CalcLibir\CalcLibir\obj\Debug\CalcLibir.dll
+C:\Users\Admin\source\repos\CalcLibir\CalcLibir\obj\Debug\CalcLibir.pdb
